@@ -1,6 +1,9 @@
 langgraph
 langchain
+langchain-openai
 fastapi
 uvicorn
 streamlit
 pydantic
+python-dotenv
+requests
